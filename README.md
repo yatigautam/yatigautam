@@ -1,4 +1,5 @@
 # Hi, I'm Yati Gautam! 👋
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 I'm a passionate developer interested in [technology and innovation](#) 🚀. I love working on real-world projects, collaborating with like-minded people, and contributing to open-source software.
 
